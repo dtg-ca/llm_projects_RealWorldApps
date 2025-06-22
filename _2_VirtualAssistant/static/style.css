@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+input, button { padding: 10px; margin: 5px; width: 80%; }
+#response { width: 80%; margin: auto; border: 1px solid #ccc; padding: 10px; background: #f4f4f4; text-align: left; }
+#tasks { width: 80%; margin: auto; border: 1px solid #ddd; padding: 10px; background: #e8e8e8; text-align: left; }
